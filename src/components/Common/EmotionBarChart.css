@@ -1,0 +1,23 @@
+.root {
+  flexgrow: 1;
+}
+
+.paperEmoition {
+  padding: theme.spacing.unit * 2;
+  textalign: "center";
+  color: theme.palette.text.secondary;
+  height: 400px;
+}
+
+.paperSuccess {
+  padding: theme.spacing.unit * 2;
+  textalign: "center";
+  color: theme.palette.text.secondary;
+  height: 100px;
+}
+
+.fixed {
+  position: relative;
+  left: 360px;
+  top: 30px;
+}
